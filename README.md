@@ -36,8 +36,6 @@
 
 </td></tr></table>
 
-<br/>
-
 ## Связь со мной
 
 <div align="center">
@@ -48,8 +46,6 @@
 <img src=https://img.shields.io/badge/HeadHunter-FF5252?style=for-the-badge&logo=headhunter&logoColor=white alt=headhunter style="margin-bottom: 5px;" />
 </a>
 </div>
-
-<br/>
 
 ## Статистика Github
 
