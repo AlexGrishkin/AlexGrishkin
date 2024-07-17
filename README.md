@@ -12,7 +12,7 @@
 
 ## Мой стек технологий, фреймфорков и библиотек
 
-<table><tr><td valign="top" width="33%">
+<!-- <table><tr><td valign="top" width="33%"> -->
 
 ### Frontend
 
