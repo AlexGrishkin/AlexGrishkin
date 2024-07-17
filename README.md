@@ -10,11 +10,8 @@
 
 <br/>
 
-## Мой стек технологий, фреймфорков и библиотек
+## Мой стек технологий
 
-<!-- <table><tr><td valign="top" width="33%"> -->
-
-<h3>Стек</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -22,7 +19,9 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
 </p>
-<h3>Фреймворки и библиотеки</h3>
+
+## Мой стек фреймфорков и библиотек
+
 <p align='center'>
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white">
@@ -46,11 +45,3 @@
 <img src=https://img.shields.io/badge/HeadHunter-FF5252?style=for-the-badge&logo=headhunter&logoColor=white alt=headhunter style="margin-bottom: 5px;" />
 </a>
 </div>
-
-## Статистика Github
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexGrishkin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
----
