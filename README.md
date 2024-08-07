@@ -41,7 +41,7 @@
 <a href="https://t.me/AlexGrishkin" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="https://hh.ru/resume/f54a0801ff072fab0b0039ed1f534d644c4a30" target="_blank">
+<a href="https://hh.ru/resume/7c99d369ff0d8cff390039ed1f4a4264656b6c" target="_blank">
 <img src=https://img.shields.io/badge/HeadHunter-FF5252?style=for-the-badge&logo=headhunter&logoColor=white alt=headhunter style="margin-bottom: 5px;" />
 </a>
 </div>
